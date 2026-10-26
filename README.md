@@ -1,0 +1,1 @@
+This repository features a synthetic data generator built with open-source Hugging Face models and an interactive Gradio user interface. Designed to run seamlessly in Google Colab via Jupyter Notebooks, it provides an accessible workflow for generating custom datasets for machine learning and LLM engineering projects.
